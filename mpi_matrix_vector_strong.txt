@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Processes: 1, Global Matrix Size (strong): 1000x1000
+MPI Matrix-Vector Multiplication Performance
+Processes: 1, Global Matrix Size: 1000 x 1000, Scaling: strong, Runs: 5
+Average Time (seconds): 0.022020
+------------------------------------------------------------
+Processes: 2, Global Matrix Size (strong): 1000x1000
+------------------------------------------------------------
+Processes: 4, Global Matrix Size (strong): 1000x1000
+------------------------------------------------------------
+Processes: 8, Global Matrix Size (strong): 1000x1000
+------------------------------------------------------------
+Processes: 16, Global Matrix Size (strong): 1000x1000
+------------------------------------------------------------
+Processes: 32, Global Matrix Size (strong): 1000x1000
+------------------------------------------------------------
+Processes: 1, Global Matrix Size (strong): 1000x1000
+MPI Matrix-Vector Multiplication Performance
+Processes: 1, Global Matrix Size: 1000 x 1000, Scaling: strong, Runs: 5
+Average Time (seconds): 0.021892
+------------------------------------------------------------
+Processes: 2, Global Matrix Size (strong): 1000x1000
+MPI Matrix-Vector Multiplication Performance
+Processes: 2, Global Matrix Size: 1000 x 1000, Scaling: strong, Runs: 5
+Average Time (seconds): 0.011211
+------------------------------------------------------------
+Processes: 4, Global Matrix Size (strong): 1000x1000
+MPI Matrix-Vector Multiplication Performance
+Processes: 4, Global Matrix Size: 1000 x 1000, Scaling: strong, Runs: 5
+Average Time (seconds): 0.005618
+------------------------------------------------------------
+Processes: 8, Global Matrix Size (strong): 1000x1000
+MPI Matrix-Vector Multiplication Performance
+Processes: 8, Global Matrix Size: 1000 x 1000, Scaling: strong, Runs: 5
+Average Time (seconds): 0.002813
+------------------------------------------------------------
+Processes: 16, Global Matrix Size (strong): 1000x1000
+MPI Matrix-Vector Multiplication Performance
+Processes: 16, Global Matrix Size: 1000 x 1000, Scaling: strong, Runs: 5
+Average Time (seconds): 0.001402
+------------------------------------------------------------
+Processes: 32, Global Matrix Size (strong): 1000x1000
+MPI Matrix-Vector Multiplication Performance
+Processes: 32, Global Matrix Size: 1000 x 1000, Scaling: strong, Runs: 5
+Average Time (seconds): 0.000722

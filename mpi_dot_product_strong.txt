@@ -1,0 +1,60 @@
+------------------------------------------------------------
+Processes: 1, Global Vector Size (strong): 1000000
+MPI Dot Product Performance
+Processes: 1, Global Vector Size: 1000000, Runs: 5
+Average Time (seconds): 0.018967
+------------------------------------------------------------
+Processes: 2, Global Vector Size (strong): 1000000
+MPI Dot Product Performance
+Processes: 2, Global Vector Size: 1000000, Runs: 5
+Average Time (seconds): 0.009646
+------------------------------------------------------------
+Processes: 4, Global Vector Size (strong): 1000000
+MPI Dot Product Performance
+Processes: 4, Global Vector Size: 1000000, Runs: 5
+Average Time (seconds): 0.004877
+------------------------------------------------------------
+Processes: 8, Global Vector Size (strong): 1000000
+MPI Dot Product Performance
+Processes: 8, Global Vector Size: 1000000, Runs: 5
+Average Time (seconds): 0.002406
+------------------------------------------------------------
+Processes: 16, Global Vector Size (strong): 1000000
+MPI Dot Product Performance
+Processes: 16, Global Vector Size: 1000000, Runs: 5
+Average Time (seconds): 0.001197
+------------------------------------------------------------
+Processes: 32, Global Vector Size (strong): 1000000
+MPI Dot Product Performance
+Processes: 32, Global Vector Size: 1000000, Runs: 5
+Average Time (seconds): 0.000592
+------------------------------------------------------------
+Processes: 1, Global Vector Size (strong): 1000000
+MPI Dot Product Performance
+Processes: 1, Global Vector Size: 1000000, Runs: 5
+Average Time (seconds): 0.018951
+------------------------------------------------------------
+Processes: 2, Global Vector Size (strong): 1000000
+MPI Dot Product Performance
+Processes: 2, Global Vector Size: 1000000, Runs: 5
+Average Time (seconds): 0.009505
+------------------------------------------------------------
+Processes: 4, Global Vector Size (strong): 1000000
+MPI Dot Product Performance
+Processes: 4, Global Vector Size: 1000000, Runs: 5
+Average Time (seconds): 0.004880
+------------------------------------------------------------
+Processes: 8, Global Vector Size (strong): 1000000
+MPI Dot Product Performance
+Processes: 8, Global Vector Size: 1000000, Runs: 5
+Average Time (seconds): 0.002421
+------------------------------------------------------------
+Processes: 16, Global Vector Size (strong): 1000000
+MPI Dot Product Performance
+Processes: 16, Global Vector Size: 1000000, Runs: 5
+Average Time (seconds): 0.001209
+------------------------------------------------------------
+Processes: 32, Global Vector Size (strong): 1000000
+MPI Dot Product Performance
+Processes: 32, Global Vector Size: 1000000, Runs: 5
+Average Time (seconds): 0.000597
