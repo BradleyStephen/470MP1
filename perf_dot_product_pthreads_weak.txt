@@ -1,0 +1,30 @@
+------------------------------------------------------------
+Threads: 1, Vector Size (weak): 1000000
+Pthreads Dot Product Performance
+Threads: 1, Vector Size: 1000000, Scaling: weak, Runs: 5
+Average Time (seconds): 0.018841
+------------------------------------------------------------
+Threads: 2, Vector Size (weak): 2000000
+Pthreads Dot Product Performance
+Threads: 2, Vector Size: 2000000, Scaling: weak, Runs: 5
+Average Time (seconds): 0.019223
+------------------------------------------------------------
+Threads: 4, Vector Size (weak): 4000000
+Pthreads Dot Product Performance
+Threads: 4, Vector Size: 4000000, Scaling: weak, Runs: 5
+Average Time (seconds): 0.019317
+------------------------------------------------------------
+Threads: 8, Vector Size (weak): 8000000
+Pthreads Dot Product Performance
+Threads: 8, Vector Size: 8000000, Scaling: weak, Runs: 5
+Average Time (seconds): 0.021132
+------------------------------------------------------------
+Threads: 16, Vector Size (weak): 16000000
+Pthreads Dot Product Performance
+Threads: 16, Vector Size: 16000000, Scaling: weak, Runs: 5
+Average Time (seconds): 0.021843
+------------------------------------------------------------
+Threads: 32, Vector Size (weak): 32000000
+Pthreads Dot Product Performance
+Threads: 32, Vector Size: 32000000, Scaling: weak, Runs: 5
+Average Time (seconds): 0.025774

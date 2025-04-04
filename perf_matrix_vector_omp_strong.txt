@@ -1,0 +1,30 @@
+------------------------------------------------------------
+Threads: 1, Matrix Size (strong): 1000x1000
+OpenMP Matrix-Vector Multiplication Performance
+Threads: 1, Matrix Size: 1000 x 1000, Scaling: strong, Runs: 5
+Average Time (seconds): 0.020652
+------------------------------------------------------------
+Threads: 2, Matrix Size (strong): 1000x1000
+OpenMP Matrix-Vector Multiplication Performance
+Threads: 2, Matrix Size: 1000 x 1000, Scaling: strong, Runs: 5
+Average Time (seconds): 0.010601
+------------------------------------------------------------
+Threads: 4, Matrix Size (strong): 1000x1000
+OpenMP Matrix-Vector Multiplication Performance
+Threads: 4, Matrix Size: 1000 x 1000, Scaling: strong, Runs: 5
+Average Time (seconds): 0.005543
+------------------------------------------------------------
+Threads: 8, Matrix Size (strong): 1000x1000
+OpenMP Matrix-Vector Multiplication Performance
+Threads: 8, Matrix Size: 1000 x 1000, Scaling: strong, Runs: 5
+Average Time (seconds): 0.003147
+------------------------------------------------------------
+Threads: 16, Matrix Size (strong): 1000x1000
+OpenMP Matrix-Vector Multiplication Performance
+Threads: 16, Matrix Size: 1000 x 1000, Scaling: strong, Runs: 5
+Average Time (seconds): 0.002243
+------------------------------------------------------------
+Threads: 32, Matrix Size (strong): 1000x1000
+OpenMP Matrix-Vector Multiplication Performance
+Threads: 32, Matrix Size: 1000 x 1000, Scaling: strong, Runs: 5
+Average Time (seconds): 0.002632

@@ -1,0 +1,30 @@
+------------------------------------------------------------
+Threads: 1, Vector Size (weak): 1000000
+OpenMP Dot Product Performance
+Threads: 1, Vector Size: 1000000, Scaling: weak, Runs: 5
+Average Time (seconds): 0.018947
+------------------------------------------------------------
+Threads: 2, Vector Size (weak): 2000000
+OpenMP Dot Product Performance
+Threads: 2, Vector Size: 2000000, Scaling: weak, Runs: 5
+Average Time (seconds): 0.018992
+------------------------------------------------------------
+Threads: 4, Vector Size (weak): 4000000
+OpenMP Dot Product Performance
+Threads: 4, Vector Size: 4000000, Scaling: weak, Runs: 5
+Average Time (seconds): 0.019190
+------------------------------------------------------------
+Threads: 8, Vector Size (weak): 8000000
+OpenMP Dot Product Performance
+Threads: 8, Vector Size: 8000000, Scaling: weak, Runs: 5
+Average Time (seconds): 0.019380
+------------------------------------------------------------
+Threads: 16, Vector Size (weak): 16000000
+OpenMP Dot Product Performance
+Threads: 16, Vector Size: 16000000, Scaling: weak, Runs: 5
+Average Time (seconds): 0.018977
+------------------------------------------------------------
+Threads: 32, Vector Size (weak): 32000000
+OpenMP Dot Product Performance
+Threads: 32, Vector Size: 32000000, Scaling: weak, Runs: 5
+Average Time (seconds): 0.019915
