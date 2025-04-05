@@ -1,30 +1,14 @@
-#!/bin/bash
-# File: run_all_mpi.sh
-# Name: Bradley Stephen
-# Date: April 4, 2025
-# Assignment: MP1 - Part 3 - MPI Performance Evaluation Automation
-#
-# Description:
-#   This script compiles the MPI programs for the dot product and matrix-vector multiplication,
-#   and then runs a series of tests for both strong and weak scaling scenarios.
-#   For MPI Dot Product:
-#     - Strong scaling: Global vector size remains constant.
-#     - Weak scaling: Global vector size = BASE_VECTOR * num_processes.
-#   For MPI Matrix-Vector Multiplication:
-#     - Strong scaling: Global matrix rows = BASE_M.
-#     - Weak scaling: Global matrix rows = BASE_M * num_processes.
-#
-# Usage:
-#   Make the script executable: chmod +x run_all_mpi.sh
-#   Then run: ./run_all_mpi.sh
+# run_all_mpi.sh
+# Bradley Stephen
+# April 4, 2025
 
 # Base parameters for MPI Dot Product
-BASE_VECTOR=1000000    # Global vector size for strong scaling
+BASE_VECTOR=1000000    
 DOT_NUM_RUNS=5
 
 # Base parameters for MPI Matrix-Vector Multiplication
-BASE_M=1000            # Base number of rows for strong scaling (global rows = BASE_M)
-BASE_N=1000            # Number of columns (remains constant)
+BASE_M=1000            
+BASE_N=1000           
 MV_NUM_RUNS=5
 
 # Process counts to test

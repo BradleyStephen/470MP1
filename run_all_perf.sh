@@ -1,24 +1,12 @@
-#!/bin/bash
-# File: run_all_perf.sh
-# Name: Bradley Stephen
-# Date: April 4, 2025
-# Assignment: MP1 - Part 2 - Performance Evaluation Automation
-#
-# Description:
-#   This script compiles the performance evaluation programs for the dot product (Pthreads and OpenMP)
-#   and matrix-vector multiplication (OpenMP). It then runs each executable with a set of thread counts
-#   (1, 2, 4, 8, 16, 32) for both strong scaling (constant problem size) and weak scaling (problem size
-#   increases with the number of threads). The results are appended to output log files.
-#
-# Usage:
-#   Make this script executable with: chmod +x run_all_perf.sh
-#   Then run: ./run_all_perf.sh
+# run_all_perf.sh
+# Bradley Stephen
+# April 4, 2025
 
 # Base parameters (change as needed)
-DOT_BASE_SIZE=1000000       # Base vector size for dot product tests
-MAT_BASE_M=1000             # Base number of rows for matrix-vector tests
-MAT_BASE_N=1000             # Number of columns for matrix-vector tests
-NUM_RUNS=5                  # Number of runs for each configuration
+DOT_BASE_SIZE=1000000      
+MAT_BASE_M=1000            
+MAT_BASE_N=1000        
+NUM_RUNS=5                  
 
 # Thread counts to test
 THREADS=(1 2 4 8 16 32)
